@@ -1,7 +1,7 @@
 //Manigandan Vedant DSE
 //Rachit Jadhav DSE
 // Arpita Mishra DSE
-// Gokul Chetty DSE
+
 
 #include <stdio.h>
 #include <stdbool.h>
